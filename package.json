@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --fix",
-    "dev": "webpack server",
+    "start": "webpack server",
     "test": "cypress run",
     "test:watch": "cypress open",
     "prepare": ""
