@@ -5,5 +5,5 @@ module.exports = {
   devServer: {
     static: './src',
   },
-  mode: 'development',
+  mode: 'production',
 };
