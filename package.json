@@ -2,7 +2,7 @@
   "name": "kristaver-todo",
   "version": "1.0.0",
   "description": "basic implementation of a todo list",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "lint": "eslint . --fix",
     "start": "node app.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saltsthlm/salt-jsfs-todo.git"
+    "url": "git+https://github.com/kristaver/todo-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saltsthlm/salt-jsfs-todo/issues"
+    "url": "https://github.com/kristaver/todo-app/issues"
   },
-  "homepage": "https://github.com/saltsthlm/salt-jsfs-todo#readme",
+  "homepage": "http://todo.kristaver.com",
   "devDependencies": {
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-cypress": "^2.12.1",
